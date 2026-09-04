@@ -1,3 +1,4 @@
+
 # Multi-Source Reconciliation Agent
 
 An AI-assisted reconciliation system that matches payment gateway transactions against bank settlement records, using confidence-based scoring and LLM review for ambiguous cases — built for the Razorpay AI Builder Internship 2026 (AI Finance Controller track).
@@ -43,8 +44,8 @@ Since the synthetic dataset is generated with known ground truth (each record is
 
 **1. Clone the repository and enter the folder**
 ```bash
-git clone <your-repo-url>
-cd <repo-folder-name>
+git clone https://github.com/sanskruti26052/razorpay-reconciliation-agent.git
+cd razorpay-reconciliation-agent
 ```
 
 **2. Create and activate a virtual environment**
